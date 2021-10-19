@@ -15,5 +15,6 @@ function getData(){
 
 function getFormData(){
 	console.log("git added ");
+	console.log("issue close #3");
 return "formData";
 }
