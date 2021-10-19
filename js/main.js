@@ -12,3 +12,7 @@ function getData(){
 	
 	return "this is new data";
 }
+
+function getFormData(){
+return "formData";
+}
